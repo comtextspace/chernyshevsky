@@ -1,0 +1,10 @@
+vuepress:
+  title: "Собрание сочинений Н. Г. Чернышевского"
+  base: "/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
+  - vol01/чернышевский-собрание-сочинений-том-1-1939.md
