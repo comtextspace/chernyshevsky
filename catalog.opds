@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Собрание сочинений Н. Г. Чернышевского</title>
+  <entry>
+    <title>Полное собрание сочинений Н. Г. Чернышевского в 15 томах. Том 1</title>
+    <updated>2026-02-19T05:29:29.328Z</updated>
+    <link href="files/chernyshevskiy-sobranie-sochineniy-tom-1-1939.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Николай Гаврилович Чернышевский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Полное собрание сочинений Н. Г. Чернышевского в 15 томах. Том 2</title>
+    <updated>2026-02-19T05:29:45.983Z</updated>
+    <link href="files/chernyshevskiy-sobranie-sochineniy-tom-2-1949.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Николай Гаврилович Чернышевский</name>
+    </author>
+  </entry>
+</feed>
